@@ -1,0 +1,403 @@
+
+{
+    "categoriaInfo": {
+        "animal":[
+        {    "Nombre": "Rob Schneider",
+            "Edad": "60 años" ,
+            "Fechadenacimiento": "31 de octubre de 1963",
+            "Personaje": "Marvin",
+             "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rob_Schneider_Photo_Op_GalaxyCon_Raleigh_2019.jpg/800px-Rob_Schneider_Photo_Op_GalaxyCon_Raleigh_2019.jpg"
+       },
+       
+       { "Nombre": "Colleen Haskell",
+        "Edad": "47 años" ,
+        "Fechadenacimiento": "6 de diciembre de 1976",
+        "Personaje": "Rianna ",
+         "imagen": "data:image/webp;base64,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"
+   },
+   { "Nombre":"Michael Caton",
+    "Edad": "81 años" ,
+    "Fechadenacimiento": "21 de julio de 1943 ",
+    "Personaje": "Dr Wilder ",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Michael_Caton_%287982318064%29.jpg/320px-Michael_Caton_%287982318064%29.jpg"
+},
+{    "Nombre": "Ed Asner",
+    "fallecimiento": "29 de agosto de 2021 " ,
+    "Fechadenacimiento": "15 de noviembre de 1929",
+    "Personaje": "Chief Wilson",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ed_Asner_in_2017.jpg/220px-Ed_Asner_in_2017.jpg"
+},
+{   "Nombre":"Guy Turry",
+    "Edad": "55 años" ,
+    "Fechadenacimiento": "5 de enero de 1969 ",
+    "Personaje": "Miles ",
+     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Cv332lis0z7bnCCga0UmhpS6baKbOAEdUg&s"
+},
+{   "Nombre" :"Jhon C. McGinley",
+    "Edad": "65 años" ,
+    "Fechadenacimiento": "3 de agosto de 1959 ",
+    "Personaje": "Sargento sisk",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/JohnCMcGinleyByTomMorgan2008.jpg/415px-JohnCMcGinleyByTomMorgan2008.jpg"
+}
+
+ ],
+"spy":[
+
+{   "Nombre" :"Melissa McCarthy",
+    "Edad": "54 años" ,
+    "Fechadenacimiento": "26 de agosto de 1970 ",
+    "Personaje": "Susan Cooper",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Melissa_McCarthy_in_2018_%28cropped%29.jpg/337px-Melissa_McCarthy_in_2018_%28cropped%29.jpg"
+},
+{   "Nombre" :"Jason Statham",
+    "Edad": "45 años" ,
+    "Fechadenacimiento": "14 de diciembre de 1972 ",
+    "Personaje": "Rick Ford ",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Jason_Statham_2018.jpg/373px-Jason_Statham_2018.jpg"
+},
+{   "Nombre" :"Rose Byrne",
+    "Edad": "51 años" ,
+    "Fechadenacimiento": "14 de diciembre de 1972 ",
+    "Personaje": "Rayna Boyanov",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Rose_Byrne_4%2C_2013.jpg/320px-Rose_Byrne_4%2C_2013.jpg"
+},
+{   "Nombre" :"Miranda Hart",
+    "Edad": "51 años" ,
+    "Fechadenacimiento": "14 de diciembre de 1972 ",
+    "Personaje": "Nancy B. Artings",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Miranda_Hart_in_2011.jpg/320px-Miranda_Hart_in_2011.jpg"
+},
+{   "Nombre" :"Jude Law",
+    "Edad": "51 años" ,
+    "Fechadenacimiento": "29 de diciembre de 1972 ",
+    "Personaje": "Bradley Fine ",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jude_Law-67896_%28cropped%29.jpg/361px-Jude_Law-67896_%28cropped%29.jpg"
+},
+{   "Nombre" :"Carlos Ponce",
+    "Edad": "52 años" ,
+    "Fechadenacimiento": "4 de setiembre de 1972 ",
+    "Personaje": "Matthew Wright",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Carlos_Ponce_en_2019.jpg"
+}
+],
+"rubias":[
+
+{   "Nombre" :"Shawn Wayans",
+    "Edad": "53 años" ,
+    "Fechadenacimiento": ": 19 de enero de 1971 ",
+    "Personaje": ": Kevin Coopeland ",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Shawnwayans04.jpg"
+},
+{   "Nombre" :"Marlon Wayans",
+    "Edad": "52 años" ,
+    "Fechadenacimiento": "23 de julio de 1972 ",
+    "Personaje": "Marcus Coopeland",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Marlon_Wayans_%282018%29_%28cropped%29.jpg/220px-Marlon_Wayans_%282018%29_%28cropped%29.jpg"
+},
+{   "Nombre" :"Jaime King",
+    "Edad": "45 años" ,
+    "Fechadenacimiento": "23 de abril de 1979 ",
+    "Personaje": "Heather Vandergeld ",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Jamie_King_in_San_Diego_Comic-Con_2008_1.jpg/240px-Jamie_King_in_San_Diego_Comic-Con_2008_1.jpg"
+},
+{   "Nombre" :"Brittany Daniel",
+    "Edad": "48 años" ,
+    "Fechadenacimiento": "17 de marzo de 1976 ",
+    "Personaje": "Megan Vandergeld",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Brittany_Daniel_LF2_crop.jpg/220px-Brittany_Daniel_LF2_crop.jpg"
+},
+{   "Nombre" :"Terry Crews",
+    "Edad": "56 años" ,
+    "Fechadenacimiento": "30 de julio de 1968 ",
+    "Personaje": "Latrell Spencer",
+     "imagen": ""
+},
+{   "Nombre" :"Jhon Heard",
+    "Fechadenacimiento": " 7 de marzo de 1946" ,
+    "Fallecimiento": "21 de julio de 2017",
+    "Personaje": "Warren Vandergeld",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Terry_Crews_by_Gage_Skidmore_5.jpg/220px-Terry_Crews_by_Gage_Skidmore_5.jpg"
+}
+],
+
+"comoniños":[
+
+{   "Nombre" :"Adam Sandler",
+    "Edad": "58 años" ,
+    "Fechadenacimiento": "9 de setiembre de 1966 ",
+    "Personaje": "Lenny Feder",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Adam_Sandler_at_Berlinale_2024.jpg/346px-Adam_Sandler_at_Berlinale_2024.jpg"
+},
+{   "Nombre" :"Kevin James",
+    "Edad": "58 años" ,
+    "Fechadenacimiento": ": 9 de setiembre de 1966 ",
+    "Personaje": "Eric Lamonsoff",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kevin_James_2011_%28Cropped%29.jpg/384px-Kevin_James_2011_%28Cropped%29.jpg"
+},
+{   "Nombre" :"David Space: ",
+    "Edad": "58 años" ,
+    "Fechadenacimiento": "22 de julio de 1964",
+    "Personaje": "Marcus Higgings",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/David_Spade_1.jpg/320px-David_Spade_1.jpg"
+},
+{   "Nombre" :"Chris Rock",
+    "Edad": "59 años" ,
+    "Fechadenacimiento": "7 de febrero de 1965",
+    "Personaje": "Kurt McKencie",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chris_Rock_2014.jpg/359px-Chris_Rock_2014.jpg"
+},
+{   "Nombre" :"Rob Schneider",
+    "Edad": "60 años" ,
+    "Fechadenacimiento": "31 de octubre de 1963",
+    "Personaje": "Rob Hilliard",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rob_Schneider_Photo_Op_GalaxyCon_Raleigh_2019.jpg/220px-Rob_Schneider_Photo_Op_GalaxyCon_Raleigh_2019.jpg"
+},
+{   "Nombre" :"Salma Hayek",
+    "Edad": "58 años" ,
+    "Fechadenacimiento": "2 de setiembre de 1966 ",
+    "Personaje": "Roxanne ",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Salma_Hayek-9894.jpg/320px-Salma_Hayek-9894.jpg"
+}
+],
+"sextillizos":[
+
+
+{   "Nombre" :"Marlon Wayans",
+    "Edad": "52 años" ,
+    "Fechadenacimiento": "23 de julio de 1972 ",
+    "Personaje": "Russell",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Marlon_Wayans_%282018%29_%28cropped%29.jpg/359px-Marlon_Wayans_%282018%29_%28cropped%29.jpg"
+},
+{   "Nombre" :"Bresha Webb",
+    "Edad": "40 años" ,
+    "Fechadenacimiento": "6 de mayo de 1984 ",
+    "Personaje": "Marie Daniels",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bresha_Webb_2020.jpg/220px-Bresha_Webb_2020.jpg"
+},
+{   "Nombre" :"Debbi Morgan",
+    "Edad": "67 años" ,
+    "Fechadenacimiento": "20 de setiembre de 1956 ",
+    "Personaje": "Janet",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Dorian_Harewood_%26_Debbi_Morgan.jpg/220px-Dorian_Harewood_%26_Debbi_Morgan.jpg"
+},
+{   "Nombre" :"Molly Shannon",
+    "Edad": "60 años" ,
+    "Fechadenacimiento": "16 de setiembre de 1964 ",
+    "Personaje": "Linda",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MollyShannon.jpg/220px-MollyShannon.jpg"
+},
+{   "Nombre" :"Michael Ian Black ",
+    "Edad": "53 años" ,
+    "Fechadenacimiento": "12 de agosto de 1971 ",
+    "Personaje": "Doug",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Michael_Ian_Black_-_Stand-Up_-_cropped.jpg/220px-Michael_Ian_Black_-_Stand-Up_-_cropped.jpg"
+},
+{   "Nombre" :"Glynn Turman",
+    "Edad": "77 años" ,
+    "Fechadenacimiento": "31 de enero de 1947 ",
+    "Personaje": "Leland",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Glynn_Turman_headshot.jpg/220px-Glynn_Turman_headshot.jpg"
+}
+    ],
+
+    "office":[
+
+{   "Nombre" :"Steve Carell",
+    "Edad": "62 años" ,
+    "Fechadenacimiento": "16 de agosto de 1962 ",
+    "Personaje": "Michael Scott",
+     "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/MichaelScott.png/220px-MichaelScott.png"
+},
+{   "Nombre" :"Rainn Wilson",
+    "Edad": "58 años" ,
+    "Fechadenacimiento": "20 de enero de 1966 ",
+    "Personaje": "Dwight Schrute",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/68/Rainn_Wilson_2011_Shankbone_2.JPG"
+},
+{   "Nombre" :"John Krasinki ",
+    "Edad": "58 años" ,
+    "Fechadenacimiento": "20 de enero de 1966 ",
+    "Personaje": "Jim Halpert",
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Jim-halpert.jpg/220px-Jim-halpert.jpg"
+},
+{   "Nombre" :"Jenna Fischer",
+    "Edad": "50 años" ,
+    "Fechadenacimiento": "7 de marzo de 1974 ",
+    "Personaje": "Pam Beesley",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Jenna_Fischer_May08_cropped.jpg/220px-Jenna_Fischer_May08_cropped.jpg"
+},
+{   "Nombre" :"B.J Novak ",
+    "Edad": "45 años" ,
+    "Fechadenacimiento": "1 de julio de 1979",
+    "Personaje": "Ryan Howard ",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BJNovakEmmysSept09_cropped.jpg/200px-BJNovakEmmysSept09_cropped.jpg"
+},
+{   "Nombre" :"Ed Helms ",
+    "Edad": "50 años" ,
+    "Fechadenacimiento": "24 de enero de 1974 ",
+    "Personaje": "Andy Bernard",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ed_Helms_Obvious_Child_Premiere_2014_%28cropped%29.jpg/200px-Ed_Helms_Obvious_Child_Premiere_2014_%28cropped%29.jpg"
+}
+    ],
+
+
+    "derrygirls":[
+{   "Nombre" :"Saoirse-Monica Jackson",
+    "Edad": "30 años" ,
+    "Fechadenacimiento": "24 de noviembre de 1993 ",
+    "Personaje": "Erin Quinn",
+     "imagen": "data:image/webp;base64,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"
+},
+{   "Nombre" :"Nicola Coughlan",
+    "Edad": "37 años" ,
+    "Fechadenacimiento": "9 de enero de 1987",
+    "Personaje": "Clare Devlin",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nicola_Coughlan_Vogue_Taiwan%2C_April_2021.png/220px-Nicola_Coughlan_Vogue_Taiwan%2C_April_2021.png"
+},
+{   "Nombre" :"Louisa Harland",
+    "Edad": "31 años" ,
+    "Fechadenacimiento": "31 de enero de 1993",
+    "Personaje": "Orla McCool",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Louisa_harland_diff_2021_1.jpg/220px-Louisa_harland_diff_2021_1.jpg"
+},
+{   "Nombre" :"Jamie-Lee O’Donnell",
+    "Edad": "37 años" ,
+    "Fechadenacimiento": "4 de marzo de 1987 ",
+    "Personaje": "Michelle Mallon ",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jamie-Lee_O%E2%80%99Donnell_for_National_Lottery.jpg/220px-Jamie-Lee_O%E2%80%99Donnell_for_National_Lottery.jpg"
+},
+{   "Nombre" :"Dylam Llewellyn",
+    "Edad": "32 años" ,
+    "Fechadenacimiento": "10 de setiembre de 1992 ",
+    "Personaje": "James Maguire",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dylan_Llewellyn.jpg/200px-Dylan_Llewellyn.jpg"
+}
+],
+
+"space":[
+
+{   "Nombre" :"Steve Carell",
+    "Edad": "62 años" ,
+    "Fechadenacimiento": "16 de agosto de 1962 ",
+    "Personaje": "General Mark",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steve_Carell_November_2014.jpg/220px-Steve_Carell_November_2014.jpg"
+},
+{   "Nombre" :"jhon Malkovich",
+    "Edad": "70 años" ,
+    "Fechadenacimiento": "9 de diciembre de 1953 ",
+    "Personaje": "Dr Adrian Mallory",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/John_Malkovich_at_a_screening_of_%22Casanova_Variations%22_in_January_2015.jpg/220px-John_Malkovich_at_a_screening_of_%22Casanova_Variations%22_in_January_2015.jpg"
+},
+{   "Nombre" :"Tawny Newsome",
+    "Edad": "41 años" ,
+    "Fechadenacimiento": "24 de febrero de 1983 ",
+    "Personaje": "Angeli ali",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tawny_Newsome_by_Gage_Skidmore.jpg/220px-Tawny_Newsome_by_Gage_Skidmore.jpg"
+},
+{   "Nombre" :"Jimmy O. Yang",
+    "Edad": "37 años" ,
+    "Fechadenacimiento": "11 de junio de 1987 ",
+    "Personaje": "Dr Chan Kaifang",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/42/Jimmy_Ouyang_wiki.jpg"
+},
+{   "Nombre" :"Diana Silvers",
+    "Edad": "26 años" ,
+    "Fechadenacimiento": "3 de noviembre de 1997 ",
+    "Personaje": "Erin Naird",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Diana_Silvers_at_SXSW_%28cropped%29.jpg/220px-Diana_Silvers_at_SXSW_%28cropped%29.jpg"
+},
+{   "Nombre" :"Don Lake",
+    "Edad": "67 años" ,
+    "Fechadenacimiento": "26 de noviembre de 1956 ",
+    "Personaje": "Bradley Gregory",
+     "imagen": "data:image/webp;base64,UklGRs4LAABXRUJQVlA4IMILAAAQPACdASrEAIYAPp1EnEilpCMhLfbrILATiWUIkLYFw+E74Hwosj9SYmdyHZj7Y8RRFR8d4l6fueQ8Lf7wdNTHeSho/p8/D83WQPwiysl3fUZIm0hrtQhy3FYOWbjkFZwP/sCLHaR/z5c3+qWpM+71fnDAmuKxFkNyil+2ur/+CznB4J/24aIqj6jbhoJA47/cuMiH1oIjbMdrhO/7X7p1Ir+5cR56qdKjUiUYUJY8+7MnC8HDJzqYxIaOaKwsupAa9icMknBdKk/WvSzgIL04DFRUoJRBKnGEpH1IOmse30iom6Fif6WGVYiWoMMoZyZNzD57LmJuVER3c/yy2xy9M/hkt4MBleSNdLubrp0+WEZsPRTIWCxLeLX+K6oIQiZls2HolE4zu3FWuqKiLmxmF4MEl8kSw+XML/5//ptyRSgzvbz8Wu6KkrnHbEcrtR/EGXlI2pjTDnQafmtT7I1QzDLUI7qQcu84Fm8itoJ/YHjO2y2i7tRvrppE7gD8nlEriNO2Mg5cwaSJuo31UNPKYUrJZqRqLVkdYY++96+ChFZAqfxJqPam2SP75XuvFzJ542u2tUrRahTxGcQaCemDmqLlCiqMLd0ehIbjmfw3rsO80KehbCTQzgGmlMuibY2pwF0XmfHSciAA/uGug+yswc2/Crt4uljcpFcobiG84V9lSjSeU/DHdz+MVgJ7P4yFxAVOgraeQeWmyRXkIc3IRK7Aed6ebCNaA29Ckvzk6aPivHixtS+Q8rBmIxBuamyeaf17gcJfgwE2T8FBnOvIinj/k93SopwocBj3/x/3MDBKuitxXnX+KL3lXlwu9s9LGmE4l2VI3+NMnllD7ZseIPpk/ar8sZC51aUwIy9X2Bbj48wv6baWgUMIIJUI+uIk/TgYAIhhEFj1tT/IRtHQ3V0IpI5Xa1NdwIyHME2CKbq2/LUOt0SQQDAjAWKrVs322KQavogN6a4JS2oPT0PFtArj8s0PAvuBFuPBzr+bmiMrisQHNciVf0TytE2u6CD0FactVpITeXJtCD2k0kkZwIIgZ1GJHox6I0nXeo7ZsV2LWZmfPIBbTMhhaKBcjHsTt2eClGA4Ubcas8Y7v/ZnHe2foFv18wft26CY6/a26lkTVYpdUSUf/Y8uL7WObXPa4GtI77qfXzNFslHKA6mz6z/au/fAUdr+VbmLaLHvhe4cpXAxXuJJpjjb371SqfsMmnv3h3UfVdURLMGkOgtXy374zlBKI8d38H6Qnikse7PUqnQChD46Rk8Dz8F9ZBVRYVapgVShcB1XAeBjexkOWXXZECjnok3rjyHKE63llsifNYAmt1XFhk1tM9LiZ0lSJhbgbry3xFUTaD+qLY+g+XJ3Fp0fXDd5lc6PaFg8Ora6+MUAd2BuYvp3Csul4caq2bbrdP0gRrBiitbmzca52eQRWka4Zw9rZ42n9z/Rp+jkkmqv68hD+jkicTOL90Asp3UJW5OIEtPRJCB85ZnjpQTqavNg3KVTQJS324dhYa+fdvUXsrTDd6aPFBmkd44Y8p2lylVyrZceiowPCpKBBFl/JiQP3UBlNkD3Aq4QZUk1Oz8g3cuQW6OmB7c3cYzQd0dvkPX+TNiuGeAomagw3DQ/48fvgNKgzjuFCXY5XEM2GbDI72+zoB5uYJNkYAmqMwQ0x7UFNgD12Rg0Yt1lMV+/HBctmizkOwc0CGUpl/tP4k4iZG74VNpr6FhfTntNd7FFG7XneI1NQJ01Va/9emewJAIVGinebFMDF0eV3e1wjzoPORBdFpgdH7pKM9/PFFBQFw7E1Shq6tk2NPyO9G4geE96vc0zRuqqaixbEdhhVM91Z536Y4qcD1cqQ/2G1/vefT6j5Hn+Xg307BGWln8nPrwPiX1ovf9YLcD5NTpw86pcQM1B509YRmEKwqIGecVbkLaJuMFmxmZPHilyWp+ni45n/K5kiSXw9CH332X1Wq2+mTHM5t6BoI5vv6XK4PZHGBBURBhG04IZcPdwfoL3OyW3lnEju7SI29deJWNsBkzNCbIFxXcbtlO16KZStaf4FzktSacG3EyCVH5Nm8lgjTwWlRtA0Wa/4fa+s18tbnqDZDC7LJCZh4M/kq/xI6bwspEghl7NjijfR9uQQYXnQLlRUKld2mD9i6P9A86EfcdGzPW/X8dCc8bzko7n5XiUBUzXCCBXqGyJUqdOtv3OAKaqRXE7V+h3OTgoc+ATMTQD3kL0tHA8qwW4nMs9NzWHPe23QJoPkzI+/x/o6MGDcd45mvFmhjFwdgrk7St3Y+dulqIacEEQb7bpM/PPnu2m3/aBBrekoF+DrEsPfMeQhbG2fkESXxhsxwaTVWhBlCoVvCRAPSdeBU7OnRiPIXoHOSmO/w6Qr3V3UbZDKSg12OE34lQoxZmHURm2yM+6cur9eDOGgeqwYgUbyYdRqCFkugBpnnsNk7q6Ii4FjDjKCxCOCkzZw6Uy4Otuwhl7c/EeKkhCFmsjnfC+p8omCzj2PpZIaR3cikILg8Avsy1biGC+D4knDUe+9JgSGZCkjr8KD040T9PpUUcLXbk7MAGsiI/EpyfeumvuvzquguqslTwSm+pknfzpKcnht5nbC5J0BYOfjUr60yGiY2/5TAnPXdfsgS/ns27UsqydRAc7iHdZhSfk4aPjbcaFQ9C5uVTdYdgzJcBw7FCUh375ShtSw/noaJtYqaxVzemy6zdolmASrs/TSjjZ3LeNylsQEy4xtUzixFDELDQEfuC/xj1rV7WpeRhWaRj9H9lxsY89JyMEgh+AeNJ/32LgySgK6/a8eFVU2cCNtAk8OzJtIJx7LsaCVM4D/bQl1686Q3BUrtvnBE6dd5AXft35Wliu5/769NTJl3oR7nUaygMiMkzvSKKdCPOgzHlogOEDVWDMBuFn/VH1Bd5rA75Z4uva5B/aPGbPFLV11XSHdV9+VsKzI7VlifqG0YXSaxVabca1cEUT68+7PnesMHpRyZcaq7kb7/JqHFXz/9K/7o8FHuddNj+30lKNC7K9c16KjIZoJVEfklkkavoxC2pPuiNXCBBTqfjto1fVz3xFaqHZRN0CfLaez38EPu1d/w8+Hev3tQwK4QhBDjbDyNPqKF2p8CcwL7jEUMCNp08OK6fT9Wy6E30Zi6Nv9ydT1pS5HrzImyH8VIAV+ipj5TLOHNvzxa9SbFd6MBj5B0vI6IvRs/nGR3HkAAK9oL6msUmwOsgfVWHTVfWVeGES1z103aWh9kQUmN3sQ+h/TMuxIMgOmdMLC3vaBPCkREoK36Qe25YmVT4NVDNGMcRvxQDZvUL8/RV0PapQh+bXkwB2vu9QDm/yf3nvdyNife0gjm9wHS7maUfEnapSlzvobhA+ZQIhFfXapS6L8Yu35yvDusotx1dp/4ki8LxTOVV63OAyWq9JOdbCGNN98ddV9ucUQKFAxZRAKokpTvvs0mDLqCBIiMMq5KoH1gzgVkMqGEZdmHhc0Nhl0aqrwHLpN2fpkQIBQkpnCNaslLcg1ypxn05UL+27xeDAwkyb15Z7pjx7fboM8ZLa68RmvAhcEotuCDwus5lyg1GxvdmEesVLLHtbxEqIorlTonBmzkx3y3qmXpy5HUuYKnPtgnujyj+pHpM/yvkGF6qBlPNTBGkzNSs5wbLsd760pq8CgNYEstlozANph2Qm6Qctgbk2UViXlXy2FbR/E/ht36ZwEXB2EBFFXUH6HIYYNzcQjOAqMmKeSDcfIx46ELyOXLyC9SzDqpzKy4PjFqXJHRKUM52VE4rC8EzYKQB/NFf9FmrBKRO1EZkjcaXcup8l03QtUi1QzAAD4uUHGo7XiRVQUpqmvM58Qsdc4M3AJC3T4eh7iQmcQCTJTa/wK9eTYGQk/28hzuXkwP7cBDXIJRd61HsriA5INU3lOz4XBEL+9EWJ5uWmxH58zoJwZ5jFLNa2Af7ZgxeKHRHMmUdjTnYyEN+ggwbhZCCxdUIrBARyqisdvARUkduqx1X+WCukQRjh4lYCwAAA"
+},
+{   "Nombre" :"Ben Shwartz",
+    "Edad": "43 años" ,
+    "Fechadenacimiento": "15 de setiembre de 198",
+    "Personaje": "F. Tony ",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ben_Schwartz_%2815837950101%29.jpg/220px-Ben_Schwartz_%2815837950101%29.jpg"
+}
+],
+
+"friends":[
+
+{   "Nombre" :"Jennifer Aniston",
+    "Edad": "55 años" ,
+    "Fechadenacimiento": "11 de febrero de 1969 ",
+    "Personaje": "Rachel Green",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JenniferAnistonHWoFFeb2012.jpg/220px-JenniferAnistonHWoFFeb2012.jpg"
+},
+{   "Nombre" :"Lisa Kudrow",
+    "Edad": "61 años" ,
+    "Fechadenacimiento": "30 de julio de 1963 ",
+    "Personaje": ": Phoebe",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lisa_Kudrow_2.jpg/250px-Lisa_Kudrow_2.jpg"
+},
+{   "Nombre" :"David Schwimmer",
+    "Edad": "57 años" ,
+    "Fechadenacimiento": "2 de noviembre de 1966 ",
+    "Personaje": "Ross Geller",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/DavidSchwimmer10TIFF.jpg/220px-DavidSchwimmer10TIFF.jpg"
+},
+{   "Nombre" :"Matthew Perry",
+    "Fallecimiento": ": 28 de octubre de 2023" ,
+    "Fechadenacimiento": "19 de agosto de 1969",
+    "Personaje": ": Chandler Bing",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Matthew_Perry_in_support_of_Awareness_on_Drug_Courts_and_Reduced_Substance_Abuse.jpg/220px-Matthew_Perry_in_support_of_Awareness_on_Drug_Courts_and_Reduced_Substance_Abuse.jpg"
+},
+{   "Nombre" :"Matt LeBlanc",
+    "Edad": "57 años" ,
+    "Fechadenacimiento": "25 de julio de 1967 ",
+    "Personaje": "Joey Tribbiani",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Matt_LeBlanc_2010.jpg/220px-Matt_LeBlanc_2010.jpg"
+},
+{   "Nombre" :"Courteney Cox",
+    "Edad": "60 años" ,
+    "Fechadenacimiento": "15 de junio de 1964 ",
+    "Personaje": "Monica Geller",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Courteney_Cox_%2710_PaleyFest.jpg/220px-Courteney_Cox_%2710_PaleyFest.jpg"
+}
+],
+
+"ventana":[
+
+{   "Nombre" :"Kristen Bell",
+    "Edad": "44 años" ,
+    "Fechadenacimiento": "18 de julio de 1980 ",
+    "Personaje": "Anna",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kristen_Bell_Paris_Fashion_Week_Spring_Summer_2020_%28cropped%29.jpg/220px-Kristen_Bell_Paris_Fashion_Week_Spring_Summer_2020_%28cropped%29.jpg"
+},
+{   "Nombre" :"Samsara Yett",
+    "Edad": "15" ,
+    "lugardenacimiento": ": Los Ángeles, California",
+    "Personaje": "Emma Coleman",
+    "imagen": "https://es.web.img3.acsta.net/c_310_420/pictures/21/12/09/18/40/1660653.jpg"
+},
+{   "Nombre" :"Mary Holland",
+    "Edad": "39 años" ,
+    "Fechadenacimiento": "24 de junio de 1985 ",
+    "Personaje": "Sloane",
+     "imagen": "https://pics.filmaffinity.com/mary_holland-196117377277945-nm_200.jpg"
+},
+{   "Nombre" :"Cameron Britton",
+    "Edad": "38 años" ,
+    "Fechadenacimiento": "6 de junio de 1986 ",
+    "Personaje": "Buell",
+     "imagen": "https://pics.filmaffinity.com/cameron_britton-112197120003984-nm_200.jpg"
+},
+{   "Nombre" :"Michael Ealy",
+    "Edad": "51 años" ,
+    "Fechadenacimiento": "3 de agosto de 1973 ",
+    "Personaje": "Douglas Whitaker",
+     "imagen": "https://pics.filmaffinity.com/michael_ealy-200784189778646-nm_200.jpg"
+},
+{   "Nombre" :"Tom Riley",
+    "Edad": "43 años" ,
+    "Fechadenacimiento": "5 de abril de 1981 ",
+    "Personaje": "Nell",
+     "imagen": "https://www.filmaffinity.com/es/name.php?name-id=346653361"
+}
+    ]
+    
+}}

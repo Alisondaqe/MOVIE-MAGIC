@@ -1,0 +1,264 @@
+/* Estilo General */
+body {
+    font-family: "Playpen Sans", cursive; color: darkred;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient( #e97bb2, rgb(134, 3, 42) ) ;
+}
+
+
+header {
+    background-color: black ;
+    color: #fff;
+    padding: 20px;
+ font-size: 20px;  
+   text-align: center;
+}
+
+
+
+.logo{
+    max-width: 80%;
+    height:auto;
+}
+
+main {
+    padding: 20px;
+}
+
+
+
+.carousel {
+    position: relative;
+    width: 100%;
+    max-width: 800px; /* Ajusta el tamaño según tus necesidades */
+    margin: auto;
+    overflow: hidden;
+}
+
+.carousel-inner {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.carousel-item {
+    min-width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.carousel-controls {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+}
+
+.carousel-control {
+    background-color: rgba(12, 1, 1, 0.5);
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 24px;
+}
+
+.carousel-indicators {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.indicator {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin: 0 5px;
+    background-color: #bbb;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.indicator.active {
+    background-color: #f00673;
+}
+
+
+/* Estilo para el Formulario */
+.movie-form {
+    margin-bottom: 20px;
+    background-color: #047074;
+}
+
+.movie-form input {
+    padding: 10px;
+    width: calc(100% - 120px);
+    margin-right: 10px;
+    border: 1px solid #f06060;
+    border-radius: 4px;
+}
+
+.movie-form button {
+    padding: 10px;
+    background-color: #df5875;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.movie-form button:hover {
+    background-color: #696763;
+}
+
+/* Estilo para la Lista de Películas */
+.movie-list {
+    margin-top: 20px;
+}
+
+.movie-item {
+    background-color: #46a4b3;
+    border: 10px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.delete-btn {
+    background-color: #d83444;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.delete-btn:hover {
+    background-color: #c82333;
+}
+
+
+header {
+    background-color:#9f19a3;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Estilo para Contenedor */
+.container{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+/* Estilo para las Cajas */
+.box {
+    background-color: #ef73fa;
+    border: 1px solid #070707;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(161, 14, 14, 0.1);
+    width: 200px;
+    text-align: center;
+}
+
+
+/* Estilo para la Imagen */
+.image-container img {
+    width: 150%;
+    height: 150%;
+    object-fit: cover; /* Ajusta la imagen para que cubra el contenedor */
+}
+
+
+.box h3 {
+    margin-top: 0;
+    background-image: url(img/);
+}
+
+.box h4 {
+    margin-top: 0;
+    background-image: url(img/);
+}
+
+.box h5 {
+    margin-top: 0;
+    background-image: url(img/);
+}
+
+.box h6 {
+    margin-top: 0;
+    background-image: url(img/);
+}
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #d83444;;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #9b449e;
+}
+.paginacion {
+    position: fixed;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 30px;
+    
+
+}
+
+.paginacion button {
+    cursor: pointer;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 60px;
+    width: 200px;
+    background: rgb(240, 223, 243);
+    color: #000000;
+    border-radius: 50px;
+    font-family: "Fascinate Inline", system-ui;
+    font-weight: 600;
+    font-size: 20px;
+    transition: .3s ease all;
+}
+
+.paginacion button:hover {
+    background: rgb(255, 97, 173);
+  
+}
+
+
+
+

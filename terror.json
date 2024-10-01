@@ -1,0 +1,335 @@
+
+{
+    "categoriaInfo": {
+        "chucky":[
+        {
+            "nombre": "DON MANICINI",
+            "Edad": "61 años" ,
+            "Fechadenacimiento": "25 de enero de 1963",
+            "Personaje": "creador de chucky",
+             "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73Affd_zC_GnLHgqYKSsirqhYLdzksqc69pYDyv_j0WmMvNHE" 
+       },
+       
+    {
+        "nombre": "JUSTIN WHALIN",
+        "Edad": "50 años" ,
+        "Fechadenacimiento": "6 de septiembre",
+        "Personaje": "ANDY BARCLAY",
+         "imagen": "https://i.pinimg.com/474x/5d/be/12/5dbe12ba1552dfde121a28085c10ee35.jpg"
+
+    }, 
+    {
+        "nombre": "BRAD DOURIF ",
+    "Edad": "74 años" ,
+    "Fechadenacimiento": "25  DE SEPTIEMBRE",
+    "Personaje": "chucky",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnp1Q0tN-jcuyyR6hRrjPTlLTSLva4obloU2EiOZF-lgyI_ZKj"
+},
+{
+    "nombre": "JACK BENDER  ",
+"Edad": "28 años" ,
+"Fechadenacimiento": "30 de enero",
+"Personaje": "Zackary Arthur ",
+ "imagen": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcT5FhUMKoqymGpMVoiRznbv4HDNPQm0JPOxMzlEdcklLS16Ky5nYLMMhBpUkjWyldqVVr50CrNMeRR9Cj0"
+}],
+
+"anabelle":[
+ {   
+    "nombre": "Patrick Wilson",
+    "Edad": "51 años" ,
+    "Fechadenacimiento": "3 de julio de 1973 ",
+    "Personaje": "ED WARREN",
+     "imagen": "https://ntvb.tmsimg.com/assets/assets/218943_v9_bd.jpg" 
+},
+       
+ 
+
+{
+    
+    "nombre": "MEDISON ISEMAN",
+    "Edad": "27 años" ,
+    "Fechadenacimiento": "14 de febrero de 1997",
+    "Personaje": "MARY ELLEN",
+     "imagen": "https://media.themoviedb.org/t/p/w500/5JVhacnNhqLcWpGPH1fqL7Ovq7g.jpg" 
+},
+{
+    
+    "nombre": "VERA FARMIGA",
+    "Edad": "51 años" ,
+    "Fechadenacimiento": " 6 de agosto de 1973",
+    "Personaje": "LORRAINE WARREN",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vera_Farmiga_Met_Opera_2010_Shankbone.jpg/603px-Vera_Farmiga_Met_Opera_2010_Shankbone.jpg" 
+},
+
+{
+    
+    "nombre": "KATIE SANIFE ",
+    "Edad": "31 años" ,
+    "Fechadenacimiento": " 1 de julio de 1993",
+    "Personaje": "LORRAINE WARREN ",
+     "imagen": "https://media.themoviedb.org/t/p/w500/oQLQZ58uvGgpdtCUpOcoiF5zYJW.jpg" 
+}],
+
+
+
+   "ouija":[
+{
+    "nombre": "Lulu Wilson",
+    "Edad": "18 años" ,
+    "Fechadenacimiento": "7 de octubre de 2005",
+    "Personaje": "DORIS ZANDER",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToFBffA9H5t7NjURrJDSFur6vzLInJLvh1f96RFB7PGUWn6b_P" 
+},
+{
+    
+    "nombre": "Annalise Basso",
+    "Edad": "25 años" ,
+    "Fechadenacimiento": " 2 de diciembre de 1998 ",
+    "Personaje": "PAULINA ZANDER",
+     "imagen": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcReKzGMvdd3H10C8MQSztL13gIIXmzBT5lHdCA9TA3CuXAUJuP9Nlb_yEUVYB6A6eT1ETe5DaN5HsyYI88" 
+},
+{
+    
+    "nombre": "Kate Siegel",
+    "Edad": " 42 años" ,
+    "Fechadenacimiento": " 9 de agosto de 1982",
+    "Personaje": " JENNY BROWNING",
+     "imagen": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRa_qXq1clm1jt4OJkpMrnbsmBA_GlAM-JbmWjfVA-ePEeIZ4K4eLIgmIlBptn6505yOdt_7a6zWmMvAl0" 
+},
+{
+    
+    "nombre": "Henry Thomas",
+    "Edad": "53 años" ,
+    "Fechadenacimiento": " 9 de septiembre de 1971",
+    "Personaje": "FATHER TOM HOGAN",
+     "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRKO5YGrbh5YFtW_xthfAIgz4E7WffpotKiP8BUCyZcV8YxM7e" 
+},
+{
+    
+    "nombre": "Elizabeth Reaser",
+    "Edad": "49 años" ,
+    "Fechadenacimiento": "15 de junio de 1975",
+    "Personaje": "ALICE ZANDER",
+     "imagen": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/287438_v9_bc.jpg" 
+}
+  ],
+
+  "llave":[
+
+
+{
+    
+    "nombre": "Lin Shaye",
+    "Edad": "80 años" ,
+    "Fechadenacimiento": " 12 de octubre de 1943",
+    "Personaje": " ELISE RAINER",
+     "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy4tpZWuIlFOR0sadW3xTq1LKaUvqO9qwWMG2gYflkvEDUaFkT" 
+},
+{
+    
+    "nombre": "Angus Sampson",
+    "Edad": "45 años" ,
+    "Fechadenacimiento": "12 de febrero de 1979",
+    "Personaje": "TUCKER",
+     "imagen": "https://media.themoviedb.org/t/p/w500/8EX6ul2zyVUg91oDvI3RpYS5szV.jpg" 
+},
+
+
+
+  {
+    
+    "nombre": "BRUCE DAVISON ",
+    "Edad": "78 años" ,
+    "Fechadenacimiento": "28 de junio de 1946",
+    "Personaje": "CHRISTIAN RAINIER",
+     "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKzz-O9i5HGSsKda3kixiTMNCnaaHlcntUadwy6IsSRyz3ibdb" 
+},
+{
+    
+    "nombre": "Spencer LockE",
+    "Edad": "32 años" ,
+    "Fechadenacimiento": "20 de septiembre de 1991",
+    "Personaje": "MELISSA  RAINIER :",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNK1yNN7fyURxPBgH-GjzaWoZUKenc9bwE9L_3w6Bm5J-v8ouN" 
+},
+{
+    
+    "nombre": "Norman Reedus",
+    "Edad": "55 años" ,
+    "Fechadenacimiento": " 6 de enero de 1969",
+    "Personaje": " DARYL DIXON ",
+     "imagen": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRiexcRhPpdce3FA8id4IZsC0CAeesWXbA6688rb7RHVDgcKWXAZPwIP-j2TsVTAZJzxHG1QUFAJ3auZQ4" 
+}
+] ,
+
+"dead":[
+{
+    
+    "nombre": "Andrew Lincoln",
+    "Edad": " años" ,
+    "Fechadenacimiento":"14 de septiembre de 197",
+    "Personaje": " Rick Grimes",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUJFWK1Ej2IKSk51K1e3ubYqBixfB-LSdERUGuc6ikhm0ykBlz" 
+},
+{
+    
+    "nombre": "Melissa McBride",
+    "Edad": "59 años" ,
+    "Fechadenacimiento": "23 de mayo de 1965",
+    "Personaje": "carol peletier",
+     "imagen": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/397746_v9_bc.jpg" 
+},
+{
+    
+    "nombre": "Lauren Cohan",
+    "Edad": "42 años" ,
+    "Fechadenacimiento": " 7 de enero de 1982 ",
+    "Personaje": " 7 de enero de 1982 ",
+     "imagen": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSuBuDNigWnhWp4olc-zRxljAaS-zy1gYGFaropH2uQaNOsgKCsQ5E4vCgNHNDyUYRuSyHtiGfOrbaqipiBx8uCZ-SajyY8eji4FTraljHkKChvEP1ym-XNOD9BwZQTAJGQJI2qlNxr" 
+},
+{
+    
+    "nombre": "Jeffrey Dean Morgan",
+    "Edad": "58 años" ,
+    "Fechadenacimiento": "22 de abril de 1966 ",
+    "Personaje": "negan",
+     "imagen": "https://i.pinimg.com/474x/c4/b0/e2/c4b0e26b4986aa254beebf8c08f7621c.jpg" 
+},
+{
+    
+    "nombre": "Steven Yeun",
+    "Edad": "40 años" ,
+    "Fechadenacimiento": " 21 de diciembre de 1983 ",
+    "Personaje": "Glenn rhee",
+     "imagen": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/553525_v9_bb.jpg" 
+} ],
+
+"things":[
+{
+    
+    "nombre": "Millie Bobby Brown",
+    "Edad": "20 años" ,
+    "Fechadenacimiento": "19 de febrero de 2004",
+    "Personaje": "Once",
+     "imagen": "https://es.web.img3.acsta.net/pictures/17/10/27/11/44/0016642.jpg" 
+},
+
+  
+
+
+
+{
+    
+    "nombre": "Finn Wolfhard",
+    "Edad": "21 años" ,
+    "Fechadenacimiento": "23 de diciembre de 2002 ",
+    "Personaje": "wike wheeler",
+     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2j9tGQD9jqDuYKLymkFjf9GvFpPttzGbPBPIGHTUndo9DASYk" 
+},
+{
+    
+    "nombre": "Caleb McLaughlin",
+    "Edad": "22 años" ,
+    "Fechadenacimiento": " el 13 de octubre de 2001",
+    "Personaje": "lucas sinclair",
+     "imagen": "https://es.web.img3.acsta.net/pictures/19/07/08/15/40/5575395.jpg" 
+},
+{
+    
+    "nombre": "Sadie Sink",
+    "Edad": "22 años" ,
+    "Fechadenacimiento": "16 de abril de 2002",
+    "Personaje": "Max",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/94/Sadie_Sink_%2843914734441%29.jpg"
+},
+{
+    
+    "nombre": "Noah Schnapp",
+    "Edad": "19 años" ,
+    "Fechadenacimiento": " 3 de octubre de 2004",
+    "Personaje": " willi byers",
+     "imagen": "https://fotografias.antena3.com/clipping/cmsimages01/2023/08/08/392DAE92-8375-4305-8B47-14584E58BD38/noah-schnapp-paris-fashion-week-fall-winter-2023-2024_104.jpg?crop=2500,2500,x0,y0&width=1200&height=1200&optimize=low&format=webply" 
+},
+{
+    
+    "nombre": "Gaten Matarazzo",
+    "Edad": "22 años" ,
+    "Fechadenacimiento": " 8 de septiembre de 2002",
+    "Personaje": "dustin henderson",
+     "imagen": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRS8z7GCZgy-c2WnP30CTPV9WV0w7uyILFAldVx-LTh1-lUepp9sOII_ZpU8JrrOfVLiTRQ2UZ7uNHCtRnQDJVJXoXfFsyfaRzgP5hYhVG_9bIboZdABctHWz5FeFs9A9keWCxDKXXJBw" 
+}],
+"haunting":[
+    {"nombre": "Liam Neeson",
+    "Edad": "72 años" ,
+    "Fechadenacimiento": "7 de junio de 1952 ",
+    "Personaje": "jOHN MARKWAY",
+     "imagen": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTZmmGbdEBYVhazudvXGFWnF9o5JYMoUYJtRB2IRczFIcG6KT86-thd-O4vk2tmu4vXTa-I6f_lhxuR1lo" 
+
+    },
+
+{
+    
+    "nombre": "Catherine Zeta-Jones",
+    "Edad": "54 años" ,
+    "Fechadenacimiento": "25 de septiembre de 1969",
+    "Personaje": "theodora",
+     "imagen": "https://media.vogue.es/photos/637cf7adde535205f9c00919/1:1/w_2217,h_2217,c_limit/GettyImages-1442141170.jpg" 
+},
+{
+    
+    "nombre": "Lili Taylor",
+    "Edad": "57 años" ,
+    "Fechadenacimiento": " 20 de febrero de 1967",
+    "Personaje": "lili taylor ",
+     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1HV8o3g2R9Oc9iHJJY_gRWKkoUB9EMWg1RQ&s" 
+},
+{
+    
+    "nombre": "Owen Wilson",
+    "Edad": "55 años" ,
+    "Fechadenacimiento": "18 de noviembre de 1968",
+    "Personaje": " luke sanderson ",
+     "imagen": "https://hips.hearstapps.com/hmg-prod/images/owen-wilson-16242100-1-402.jpg?crop=1xw:1.0xh;center,top&resize=640:*" 
+}  ],
+
+    "muertos":[
+{"nombre": "Park Solomon",
+    "Edad": "24 años" ,
+    "Fechadenacimiento": "11 de noviembre de 1999",
+    "Personaje": " Lee  su-hyeok",
+     "imagen": "https://asianwiki.com/images/7/7c/Lomon-1999-p1.jpg" 
+
+    },
+
+    {       
+    "nombre": "Park Ji-hoo 박지후",
+    "Edad": "20 años" ,
+    "Fechadenacimiento": "7 de noviembre de 2003",
+    "Personaje": " Nam on-jo",
+     "imagen": "https://i.mydramalist.com/Zn7oY_5_c.jpg" 
+},
+{
+    
+    "nombre": "Yoon Chan-young",
+    "Edad": "23 años" ,
+    "Fechadenacimiento": "25 de abril de 2001",
+    "Personaje": "Lee Cheong-san",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/81/Yoon_Chanyoung_2023.jpg" 
+},
+{
+    
+    "nombre": "Cho Yi-hyun",
+    "Edad": "24 años" ,
+    "Fechadenacimiento": "8 de diciembre de 1999",
+    "Personaje": "CHOI NAM.RA",
+     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFpqj4YxRr3YOspB4pIRZ0zyV1qqKOqFfNjA&s" 
+},
+{
+    
+    "nombre": "Lee Yoo-mi",
+    "Edad": "30 años" ,
+    "Fechadenacimiento": " 18 de julio de 1994 ",
+    "Personaje": "Lee na-yeon",
+     "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/cd/211126_Lee_Yoo-mi.jpg" 
+} ]
+}}

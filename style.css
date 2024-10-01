@@ -1,0 +1,91 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    overflow: hidden; 
+
+}
+ 
+ 
+ body {
+
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg, #1e0ffa, #6b0505, #8876f3, #5a2a83);
+    background-size: 400% 400%;
+    animation: gradientAnimation 15s ease infinite;
+}
+
+@keyframes gradientAnimation {
+    0% {
+        background-position: 0% 0%;
+    }
+    50% {
+        background-position: 100% 100%;
+    }
+    100% {
+        background-position: 0% 0%;
+    }
+}
+
+.logo-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: -90px;
+  }
+  
+  .logo{
+    opacity: 0.7;
+    max-width: 100%;
+    height: auto;
+  }
+  .container {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   gap: +30px;
+
+}
+
+h1 {
+    font-size: 2em;
+    margin: 10;
+ }
+ .alien {
+    font-family: 'Orbitron', sans-serif;
+}
+
+.profiles {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.profile {
+    background-color: #c7bebe;
+    color: black;
+    border-radius: 8px;
+    padding: 20px;
+    cursor: pointer;
+    transition: transform 0.3s;
+    width: 150px;
+  
+}
+
+.profile img {
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    
+}
+.profile:hover {
+    transform: scale(1.05);
+}

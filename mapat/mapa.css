@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#map {
+    height: 100vh;
+    width: 100%;
+ 
+}
+
+#info {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(5, 0, 0, 0.76);
+}
+
+.popup-rosa {
+    background-color: rgb(138, 1, 1);
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(255, 228, 228);
+}
+.popup-blanco {
+    background-color: rgb(138, 1, 1);
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(255, 228, 228);
+}
+.popup-negro {
+    background-color: rgb(138, 1, 1);
+    padding: 10px;
+    border-radius: 5px;
+    color:rgb(255, 228, 228);
+}
+.popup-celeste {
+    background-color: rgb(138, 1, 1);
+    padding: 10px;
+    border-radius: 5px;
+    color:rgb(255, 228, 228);
+}
+
+/*el boton para bolver al inicio  */
+
+
+.paginacion {
+    position: fixed;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 30px;
+    
+
+}
+
+.paginacion button {
+    cursor: pointer;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 60px;
+    width: 200px;
+    background: rgb(240, 223, 243);
+    color: #000000;
+    border-radius: 50px;
+    font-family: "Fascinate Inline", system-ui;
+    font-weight: 600;
+    font-size: 20px;
+    transition: .3s ease all;
+}
+
+.paginacion button:hover {
+    background: rgb(255, 8, 0);
+  
+}

@@ -1,0 +1,482 @@
+{
+    "seriesInfo": {
+        "Truebeaty": [
+            {
+                "Nombre": " Cha Eun Woo",
+                "Edad": "27 años",
+                "Fechadenacimiento": "30 de Marzo de 1997 ",
+                "Personaje": "Lee Su Ho",
+                "imagen": "https://image.tmdb.org/t/p/w500/sp1FGshDoCLMQyEVFfsBsPLahAi.jpg"
+            },
+            {
+                "Nombre": " Hwang In Yeop",
+                "Edad": " 33 años",
+                "Fechadenacimiento": "19 de enero de 1991",
+                "Personaje": "Han Seo Joon",
+                "imagen": "https://asianwiki.com/images/e/e9/Hwang_In-Yeop-1991-p1.jpg"
+            },
+            {
+                "Nombre": " Moon Ga Young",
+                "Edad": "28 años",
+                "Fechadenacimiento": "10 de julio de 1996",
+                "Personaje": "Lim Joo Kyung",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/83/180501_%EB%AC%B8%EA%B0%80%EC%98%81_01.jpg"
+            },
+            {
+                "Nombre": "Kang Min Ah",
+                "Edad": "27 años",
+                "Fechadenacimiento": "20 de marzo de 1997",
+                "Personaje": "Choi Soo Ah",
+                "imagen": "https://m.media-amazon.com/images/M/MV5BMzRiZmM0MzMtMGYzMi00MTg1LTk2ZmMtZmEzNWI4NjI0M2E2XkEyXkFqcGc@._V1_.jpg"
+            },
+            {
+                "Nombre": "Im Se Mi",
+                "Edad": "37 años",
+                "Fechadenacimiento": "29 de mayo de 1987",
+                "Personaje": "Lim Hee Kyung",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Im_Se-mi_in_November_2023.png"
+            },
+            {
+                "Nombre": "Park Yoo Na",
+                "Edad": "26 años",
+                "Fechadenacimiento": "23 de diciembre de 1997",
+                "Personaje": " Kang Soo Jin",
+                "imagen": "https://i.pinimg.com/736x/5e/95/bc/5e95bc66bc18531ce53ae154cdd1523b.jpg"
+            },
+            {
+                "Nombre": "Kim Min Ki",
+                "Edad": "21 años",
+                "Fechadenacimiento": "22 de noviembre de 2002",
+                "Personaje": "Lim Joo Young",
+                "imagen": "https://asianwiki.com/images/9/97/Kim_Min-Ki-2002.jpg"
+            },
+            {
+                "Nombre": "Yeo Joo Ha",
+                "Edad": "27 años",
+                "Fechadenacimiento": "21 de febrero de 1997",
+                "Personaje": "Han Go Woon",
+                "imagen": "https://asianwiki.com/images/f/f7/Yeo_Joo-Ha-P1.jpg"
+            }
+        ],
+        "Goblin": [
+            {
+                "Nombre": "Kim Go Eun",
+                "Edad": "33 años",
+                "Fechadenacimiento": "2 de julio de 1991 ",
+                "Personaje": "Ji Eun Tak",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoOSBTmvOLzjPydjnEWtfdoB05HGCVuealpw&s"
+            },
+            {
+                "Nombre": "Gong Yoo",
+                "Edad": "45 años",
+                "Fechadenacimiento": "10 de julio de 1979  ",
+                "Personaje": "Kim Shin ",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_fqPEk5HTpjbsurBHwHZw7JJIK5yo57G0Q&s"
+            },
+            {
+                "Nombre": "Lee Dong wok",
+                "Edad": "42 años",
+                "Fechadenacimiento": "10 de julio de 1979  ",
+                "Personaje": "Wang Yeo",
+                "imagen": "https://m.media-amazon.com/images/M/MV5BYTc1ZTA1YmItMTIwZS00ZDczLTk1NzEtMTE4OWNkNzE5MzQyXkEyXkFqcGdeQXVyMjMxNTAxNDk@._V1_.jpg"
+            },
+            {
+                "Nombre": "Yoo In na",
+                "Edad": "42 años",
+                "Fechadenacimiento": "5 de junio de 1982   ",
+                "Personaje": "Kim Sun",
+                "imagen": "https://photos.hancinema.net/photos/photo1498014.jpg"
+            },
+            {
+                "Nombre": "Yook Sung jae",
+                "Edad": "29 años",
+                "Fechadenacimiento": "2 de mayo de 1995  ",
+                "Personaje": "Yoo Deok Hwa",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/03/Yook_Sung-jae_at_the_Global_V_Live_Top_10_in_January_2017_%286%29.jpg"
+            },
+            {
+                "Nombre": "Kim So-hyun",
+                "Edad": "25 años",
+                "Fechadenacimiento": "4 de junio de 1999 ",
+                "Personaje": "Kim sun",
+                "imagen": "https://asianwiki.com/images/5/5e/Kim_So-Hyun-1999-p001.jpeg"
+            }
+        ],
+        "Reina": [
+            {
+                "Nombre": "Kim Ji Won",
+                "Edad": "31 años",
+                "Fechadenacimiento": "19 de Octubre de 1992 ",
+                "Personaje": "Hong Hae In",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5tZLKSCEKpA8ByoU0E-BOsxYB6YH23t2a-iSDEcf5exkkmiBubO3Z39X3SCmRNe-8SDQ&usqp=CAU"
+            },
+            {
+                "Nombre": "Kim Soo Hyun",
+                "Edad": "36 años",
+                "Fechadenacimiento": "16 de febrero de 1988",
+                "Personaje": "Baek Hyun Woo",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/61/Kim_Soo-hyun_in_August_2024_-_2.png"
+            },
+            {
+                "Nombre": "Park Sung Hoon",
+                "Edad": "39 años",
+                "Fechadenacimiento": "18 de febrero de 1985",
+                "Personaje": "Yoon Eun Seong",
+                "imagen": "https://cinetown.s3.ap-south-1.amazonaws.com/people/profile_img/1713100845.jpeg"
+            },
+            {
+                "Nombre": "Yoon Bo Mi",
+                "Edad": "31 años",
+                "Fechadenacimiento": "13 de agosto de 1993",
+                "Personaje": "Secretaria Na",
+                "imagen": "https://www.lavanguardia.com/peliculas-series/images/profile/1993/8/w300/aKAh22ZATJn4uFTaAVoqpcjjM6L.jpg"
+            },
+            {
+                "Nombre": "Na Young Hee",
+                "Edad": "62 años",
+                "Fechadenacimiento": "20 de setiembre de 1961",
+                "Personaje": "Kim Seon Hwa",
+                "imagen": "https://images.static-bluray.com/products/22/232535_1_large.jpg"
+            },
+            {
+                "Nombre": "Lee Joo-bin",
+                "Edad": "35 años",
+                "Fechadenacimiento": "18 de setiembre de 1989",
+                "Personaje": "Cheon Da Hye",
+                "imagen": "https://i.pinimg.com/originals/cb/c4/cf/cbc4cfe2ff5560a56bdf52cdb168ba24.png"
+            },
+            {
+                "Nombre": "Jung Jin young",
+                "Edad": "59 años ",
+                "Fechadenacimiento": "18 de setiembre de 1989Jung Jin young",
+                "Personaje": "Hong Beom Jun",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8GkPpHJdAh3Ffm-dE18QKkIig_w8kZHSYDA&s"
+            }
+        ],
+
+        
+        "Woo": [
+            {
+                "Nombre": "Park Eun-bin",
+                "Edad": "32 años",
+                "Fechadenacimiento": " 4 de septiembre de 1992",
+                "Personaje": "Woo Young Woo",
+                "imagen": "https://ntvb.tmsimg.com/assets/assets/709165_v9_aa.jpg"
+            },
+            {
+                "Nombre": "Kang Tae-oh",
+                "Edad": "30 años",
+                "Fechadenacimiento": "  20 de junio de 1994",
+                "Personaje": "Lee Joon Ho",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2aaas38sbJR-FbuPRJD75izudXBbGg5ldw&s"
+            },
+            {
+                "Nombre": "Kang Ki-young",
+                "Edad": "30 años",
+                "Fechadenacimiento": "14 de octubre de 1983",
+                "Personaje": "Jung Myung Seok",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmFF9BOJ9tNjFeN1v-0JUAiO-G3sHY_xVgg&s"
+            },
+            {
+                "Nombre": "Ha Yoon-kyung",
+                "Edad": "31 años",
+                "Fechadenacimiento": "20 de octubre de 1992 ",
+                "Personaje": "Choi Soo Yeon",
+                "imagen": "https://mx.web.img2.acsta.net/pictures/23/07/01/04/53/5132835.jpg"
+            },
+            {
+                "Nombre": "Joo Jong-hyuk",
+                "Edad": "33 años",
+                "Fechadenacimiento": "27 de julio de 1991 ",
+                "Personaje": "Kwon Min Woo",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Joo_Jong-hyuk_%28%EC%A3%BC%EC%A2%85%ED%98%81%29_2022.jpg/1200px-Joo_Jong-hyuk_%28%EC%A3%BC%EC%A2%85%ED%98%81%29_2022.jpg"
+            },
+            {
+                "Nombre": "Jin Kyung",
+                "Edad": "52 años",
+                "Fechadenacimiento": " 27 de marzo de 1972",
+                "Personaje": "Jin Kyung ",
+                "imagen": "https://i.pinimg.com/736x/9c/47/36/9c473618bb85e989bcccc30b859fd830.jpg"
+            },
+            {
+                "Nombre": "Jeon Bae-soo",
+                "Edad": "54 años",
+                "Fechadenacimiento": "2 de junio de 1970",
+                "Personaje": "Woo Gwang-Ho",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGQdihwWv_gjM_dQP4MYCfG2-6jXL4ZrCC2Q&s"
+            }
+        ],
+
+        "Kingtheland": [
+            {
+                "Nombre": "Lee Jun-ho",
+                "Edad": "34 años",
+                "Fechadenacimiento": "25 de enero de 1990",
+                "Personaje": "Goo Won",
+                "imagen": "https://pbs.twimg.com/media/F4R5VIVaMAAxgfC.jpg:large"
+            },
+            {
+                "Nombre": "Im Yoon-ah",
+                "Edad": "34 años",
+                "Fechadenacimiento": "30 de mayo de 1990",
+                "Personaje": "Cheon Sa Rang",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkUZFwFFt4OP6_88UUEFEw886wLSlg39xdJQ&s"
+            },
+            {
+                "Nombre": "Kim Jae-won",
+                "Edad": "23 años",
+                "Fechadenacimiento": "9 de febrero de 2001",
+                "Personaje": "Lee Ro Woon",
+                "imagen": "https://m.media-amazon.com/images/M/MV5BNGY1NjBiZWUtYzhiOC00ZDA2LWE3YjgtYjdkZWIxYjg0YTg5XkEyXkFqcGc@._V1_.jpg"
+            },
+            {
+                "Nombre": "Anupam Tripathi",
+                "Edad": "35 años",
+                "Fechadenacimiento": " 2 de noviembre de 1988 ",
+                "Personaje": "Prince Samir",
+                "imagen": "https://www.shutterstock.com/editorial/image-editorial/McTeM1weO5TfUf37NzgzMTc=/indian-actor-anupam-tripathi-arrives-netflix's-'squid-440nw-12983855fv.jpg"
+            },
+            {
+                "Nombre": "Ko Won-hee",
+                "Edad": "30 años",
+                "Fechadenacimiento": "12 de septiembre de 1994 ",
+                "Personaje": "Oh Pyung Hwa",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTe1DoWuZmISfh7b7vprRnRkQQ5dF1PK5EdA&s"
+            },
+            {
+                "Nombre": "Kim Ga-eun",
+                "Edad": "35 años",
+                "Fechadenacimiento": "8 de enero de 1989  ",
+                "Personaje": "Kang Da Eul",
+                "imagen": "https://mx.web.img2.acsta.net/pictures/23/06/23/21/42/4819452.jpg"
+            }
+        ],
+        "Titanic": [
+            {
+                "Nombre": "Kate Winslet",
+                "Edad": "48 años",
+                "Fechadenacimiento": "5 de octubre de 1975",
+                "Personaje": "Rose DeWitt Bukater",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kate_Winslet_at_the_2017_Toronto_International_Film_Festival_%28cropped%29.jpg"
+            },
+            {
+                "Nombre": "Leonardo DiCaprio",
+                "Edad": "49 años",
+                "Fechadenacimiento": " 11 de noviembre de 1974 ",
+                "Personaje": "Jack Dawson",
+                "imagen": "https://cdn.britannica.com/65/227665-050-D74A477E/American-actor-Leonardo-DiCaprio-2016.jpg"
+            },
+            {
+                "Nombre": "Billy Zane",
+                "Edad": "58 años",
+                "Fechadenacimiento": " 24 de febrero de 1966 ",
+                "Personaje": "Caledon Hockley",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLzV-zDqVCN9QxgnnoEWmtWRYfcxSnCgymaQ&s"
+            },
+            {
+                "Nombre": "Kathy Bates",
+                "Edad": "76 años",
+                "Fechadenacimiento": "28 de junio de 1948",
+                "Personaje": "Molly Brown",
+                "imagen": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/09/kathy-bates-says-she-plans-to-retire-after-matlock-reboot.jpg"
+            },
+            {
+                "Nombre": "Victor Garber",
+                "Edad": "75 años",
+                "Fechadenacimiento": "16 de marzo de 1949",
+                "Personaje": "Thomas Andrews",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZyu-wNfx72lwuIJnj2L13G2KddBW9WdV-NQ&s"
+            },
+            {
+                "Nombre": "Frances Fisher",
+                "Edad": "72 años",
+                "Fechadenacimiento": "11 de mayo de 1952",
+                "Personaje": "Ruth Dewitt Bukater",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwc7uH7312TSdWIMPPCHHYFhBcV5ytvW7kvw&s"
+            }
+        ],
+        "Yoantesdeti": [
+            {
+                "Nombre": "Sam Claflin",
+                "Edad": "38 años",
+                "Fechadenacimiento": " 27 de junio de 1986 ",
+                "Personaje": "William Traynor",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRWiE0jTB5LaL7VQSl-cTYeCKOgJlrnRdIQV1lh-kjpXy7MBDt92aMZMkydXkbS2IlDCw&usqp=CAU"
+            },
+            {
+                "Nombre": "Emilia Clarke",
+                "Edad": "37 años",
+                "Fechadenacimiento": "23 de octubre de 1986",
+                "Personaje": "Louisa Clark",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrAwSrT8HljShZxQjKr6GxfmVrGxEJ86qCPA&s"
+            },
+            {
+                "Nombre": "Matthew Lewis",
+                "Edad": "35 años",
+                "Fechadenacimiento": "23 de octubre de 198627 de junio de 1989",
+                "Personaje": "Patrick",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcdXwYczTd1CuvjIEFNIf-XWsG8Rq_7Z3yA&s"
+            },
+            {
+                "Nombre": "Charles Dance",
+                "Edad": "77 años",
+                "Fechadenacimiento": "10 de octubre de 1946 ",
+                "Personaje": "Steven Traynor ",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVGF1A1FIrqMMMUOsUt3cx4Azm8bksoRckQ&s"
+            },
+            {
+                "Nombre": "Vanessa Kirby",
+                "Edad": "36 años",
+                "Fechadenacimiento": "18 de abril de 1988",
+                "Personaje": "Alicia Dewares",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJZbGslo8Dap4OPOICjU1hqtd-2agMgiTBQ&s"
+            },
+            {
+                "Nombre": "Jenna Coleman",
+                "Edad": "38 años",
+                "Fechadenacimiento": "27 de abril de 1986 ",
+                "Personaje": "Katrina Clark",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jenna_Coleman_2016.jpg/640px-Jenna_Coleman_2016.jpg"
+            }
+        ],
+        "Comosifueralaprimeravez": [
+            {
+                "Nombre": "Adam Sandler",
+                "Edad": "58 años",
+                "Fechadenacimiento": "9 de septiembre de 1966",
+                "Personaje": "Henry Roth",
+                "imagen": "https://cdn.britannica.com/52/243652-050-FEE0A5E4/Actor-Adam-Sandler-2019.jpg"
+            },
+            {
+                "Nombre": "Drew Barrymore",
+                "Edad": "49 años",
+                "Fechadenacimiento": "22 de febrero de 1975",
+                "Personaje": "Lucy Whitmore",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTV7B6VMQwAVAp_3FQJ-xeg2MUMqGcQymWg&s"
+            },
+            {
+                "Nombre": "Rob Schneider",
+                "Edad": "60 años",
+                "Fechadenacimiento": "31 de octubre de 1963",
+                "Personaje": "Ula",
+                "imagen": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/54827_v9_bb.jpg"
+            },
+            {
+                "Nombre": "Lusia Strus",
+                "Edad": "54 años",
+                "Fechadenacimiento": "13 de diciembre de 1969",
+                "Personaje": "Alexa",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAw01S8rWqcQB9KmgAiJI7CRKxHNHnykTRQg&s"
+            },
+            {
+                "Nombre": "Sean Astin",
+                "Edad": "53 años",
+                "Fechadenacimiento": "25 de febrero de 1971",
+                "Personaje": "Doug Whitmore",
+                "imagen": "https://media.themoviedb.org/t/p/w500/ywH1VvdwqlcnuwUVr0pV0HUZJQA.jpg"
+            },
+            {
+                "Nombre": "Maya Rudolph",
+                "Edad": "52 años",
+                "Fechadenacimiento": "27 de julio de 1972",
+                "Personaje": "Stacy",
+                "imagen": "https://www.mytalk1071.com/wp-content/uploads/2024/04/CMG77f41cdc-4f1f-41cb-9a54-628bc5722dd0.jpg"
+            }
+        ],
+        "Lalaland": [
+            {
+                "Nombre": "Emma Stone",
+                "Edad": "35 años",
+                "Fechadenacimiento": "6 de noviembre de 1988 ",
+                "Personaje": "Mia",
+                "imagen": "https://m.media-amazon.com/images/M/MV5BMjI4NjM1NDkyN15BMl5BanBnXkFtZTgwODgyNTY1MjE@._V1_.jpg"
+            },
+            {
+                "Nombre": "Ryan Gosling",
+                "Edad": "43 años",
+                "Fechadenacimiento": "12 de noviembre de 1980",
+                "Personaje": "Sebastian Wilder",
+                "imagen": "https://media.glamour.mx/photos/64b985264b0bc56740ccc42d/2:3/w_1332,h_1998,c_limit/ryan-gosling-quien-es.jpg"
+            },
+            {
+                "Nombre": "John Legend",
+                "Edad": "45 años",
+                "Fechadenacimiento": "28 de diciembre de 1978",
+                "Personaje": "Keith",
+                "imagen": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1230039869.jpg?crop=1xw:1.0xh;center,top&resize=640:*"
+            },
+            {
+                "Nombre": "J. K. Simmons",
+                "Edad": "69 años",
+                "Fechadenacimiento": " 9 de enero de 1955 ",
+                "Personaje": "Bill",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX__Mm45maN7NomK7h80fYrOpNrMul6zRe4Q&s"
+            },
+            {
+                "Nombre": "Sonoya Mizuno",
+                "Edad": "38 años",
+                "Fechadenacimiento": " 1 de julio de 1986",
+                "Personaje": "Caitlin",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV4sq_JnVVmdm9Z9Dr2f0UAelN6hlFn5qqYA&s"
+            },
+            {
+                "Nombre": "Finn Wittrock",
+                "Edad": "39 años",
+                "Fechadenacimiento": "28 de octubre de 1984",
+                "Personaje": "Greg",
+                "imagen": "https://www.hollywoodreporter.com/wp-content/uploads/2017/03/finn_wittrock.jpg"
+            },
+            {
+                "Nombre": "Rosemarie DeWitt",
+                "Edad": "52 años",
+                "Fechadenacimiento": " 26 de octubre de 1971",
+                "Personaje": "Laura",
+                "imagen": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/357228_v9_bc.jpg"
+            }
+        ],
+        "Besos": [
+            {
+                "Nombre": "Joey King",
+                "Edad": "25 años",
+                "Fechadenacimiento": "  30 de julio de 1999 ",
+                "Personaje": "Elle Evans",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8epwy15HDJVBC7HrnIocK027AQ2NZxlZ36A&s"
+            },
+            {
+                "Nombre": "Jacob Elordi",
+                "Edad": "27 años",
+                "Fechadenacimiento": "26 de junio de 1997 ",
+                "Personaje": "Noah Flynn",
+                "imagen": "https://media.themoviedb.org/t/p/w500/khfLyxY9gsKiLFoz2zj0h3uhDFJ.jpg"
+            },
+            {
+                "Nombre": "Joel Courtney",
+                "Edad": "28 años",
+                "Fechadenacimiento": "31 de enero de 1996  ",
+                "Personaje": "Lee Flynn",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joel_Courtney%2C_Wedding_Photo%2C_18Aug2018.jpg/800px-Joel_Courtney%2C_Wedding_Photo%2C_18Aug2018.jpg"
+            },
+            {
+                "Nombre": "Meganne Young",
+                "Edad": "34 años",
+                "Fechadenacimiento": "22 de marzo de 1990 ",
+                "Personaje": "Rachel",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8SvJE1Xtn3dJ3ktmwl5eTH_jCtHbSwx96fQ&s"
+            },
+            {
+                "Nombre": "Molly Ringwald",
+                "Edad": "56 años",
+                "Fechadenacimiento": "18 de febrero de 1968 ",
+                "Personaje": "Sra. Flynn",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/69/MollyRingwaldApr2013_cropped.jpg"
+            },
+            {
+                "Nombre": "Carson White",
+                "Edad": "15 años",
+                "Fechadenacimiento": "22 de diciembre de 2008",
+                "Personaje": "Brad Evans",
+                "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6WoNdIZJBQAzIw5pBd_km-LqPWLRrybHavQ&s"
+            }
+        ]
+    }
+}

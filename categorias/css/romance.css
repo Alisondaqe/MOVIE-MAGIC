@@ -1,0 +1,210 @@
+/* Estilo General */
+body {
+    font-family: "Playpen Sans", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(pink,rgb(255, 116, 220),purple) ;
+}
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Estilo para el Formulario */
+.movie-form input {
+    padding: 10px;
+    width: calc(100% - 120px);
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.movie-form button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.movie-form button:hover {
+    background-color: #0056b3;
+}
+
+/* Estilo para la Lista de Películas */
+.movie-list {
+    margin-top: 20px;
+}
+
+.movie-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.delete-btn {
+    background-color: #d83444;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.delete-btn:hover {
+    background-color: #c82333;
+}
+
+
+header {
+    background-color: #000000;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.carousel {
+    position: relative;
+    width: 100%;
+    max-width: 800px; /* Ajusta el tamaño según tus necesidades */
+    margin: auto;
+    overflow: hidden;
+}
+
+.carousel-inner {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.carousel-item {
+    min-width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.carousel-controls {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+}
+
+.carousel-control {
+    background-color: rgba(12, 1, 1, 0.5);
+    color: #ffffff;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 24px;
+}
+
+.carousel-indicators {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.indicator {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin: 0 5px;
+    background-color: #000000;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.indicator.active {
+    background-color: #ffffff;
+}
+main {
+    padding: 20px;
+}
+
+/* Estilo para Contenedor */
+.container {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* Estilo para las Cajas */
+.box {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    text-align: center;
+}
+
+
+/* Estilo para la Imagen */
+.image-container img {
+    width: 150%;
+    height: 150%;
+    object-fit: cover;
+}
+
+
+.box h3 {
+    margin-top: 0;
+    background-image: url(img/);
+}
+
+.box h4 {
+    margin-top: 0;
+    background-image: url(img/);
+}
+
+.box h5 {
+    margin-top: 0;
+    background-image: url(img/);
+}
+
+.box h6 {
+    margin-top: 0;
+    background-image: url(img/);
+}
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: #d83444;;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #9b449e;
+}
+
+
+
